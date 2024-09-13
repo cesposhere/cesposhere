@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cesposhere
 - 👀 I’m interested in coding and all stuff
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email id : cesposhereofficial@gmail.com
 - 😄 Pronouns: he/her
