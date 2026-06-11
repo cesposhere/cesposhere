@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and all stuff
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email id : cesposhereofficial@gmail.com
+- 📫 How to reach me email id : cesposhere@gmail.com
 - 😄 Pronouns: he/her
 - ⚡ Fun fact: ...
 
